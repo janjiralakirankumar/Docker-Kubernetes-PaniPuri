@@ -16,4 +16,4 @@
 
     - Kubernetes is designed for complex, production-level container orchestration across multiple hosts, offering features like scaling, high availability, and self-healing.
 
-6. **Chef Docker Engine - Chef**: Chef is like the Docker Engine, managing the creation, running, and removal of containers based on the instructions provided in the Dockerfile.
+6. **Docker Engine - Chef**: Chef is like the Docker Engine, managing the creation, running, and removal of containers based on the instructions provided in the Dockerfile.
