@@ -4,7 +4,7 @@
 
 2. **Pani (Flavoured water) - Application**: Flavored water (Pani) in your Pani Puri is like your application in Docker. It's the main part that you want to serve. Similarly, in Docker, your application is the main software or service that you want to run inside a container.
 
-3. **Chutney - Dependencies**: Docker allows you to add various ingredients like chutney, which adds flavor to Pani Puri. In the same way, you can add dependencies and libraries to your Docker container, ensuring that your application has everything it needs to run.
+3. **Chutney/Dahi/Onion - Dependencies**: Docker allows you to add various ingredients like chutney, which adds flavor to Pani Puri. In the same way, you can add dependencies and libraries to your Docker container, ensuring that your application has everything it needs to run.
 
 4. **Recipe Card (Dockerfile)**: When you want to make Pani Puri at home, you follow a recipe. Similarly, in Docker, you create a Dockerfile, which is like a recipe card that specifies the steps to build your container.
 
