@@ -19,7 +19,7 @@
 6. **Docker Engine - Chef**: Chef is like the Docker Engine, managing the creation, running, and removal of containers based on the instructions provided in the Dockerfile.
 
 ---
-## Kubernetes:
+## Kubernetes Architecture Components:
 
 Kubernetes components explained with the PaniPuri analogy:
 
@@ -57,6 +57,6 @@ Kubernetes components explained with the PaniPuri analogy:
 9. **Kubelet - Chef's Assistant**:
    - Kubelet is the chef's assistant, ensuring PaniPuris (containers) within their pods are in good shape and reporting their status.
 
-11. **Kube-proxy - Waitstaff**:
+10. **Kube-proxy - Waitstaff**:
     - Kube-proxy serves as waitstaff, forwarding requests to the right container (PaniPuri) within a service.
     - It ensures the ordered PaniPuri is delivered to the correct customer.
